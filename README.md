@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Adhya! 👋
 
-<!--
-**23f3003360-gif/23f3003360-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in product design, data science, ML, and business strategy from Delhi.
 
-Here are some ideas to get you started:
+![Your stats](https://github-readme-stats.vercel.app/api?username=23f3003360-gif&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [ML Portfolio on GitHub Pages](https://23f3003360-gif.github.io/[your-repo]/)
+- Time series ARIMA models, sustainable packaging designs.
+
+<!--email_off-->23f3003360@ds.study.iitm.ac.in<!--/email_off-->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+ML;Building+Products;Data+Science;Python+Coding)
+
