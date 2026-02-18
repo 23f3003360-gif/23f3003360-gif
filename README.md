@@ -1,6 +1,6 @@
 # Hi, I'm Adhya! 👋
 
-Student in product design, data science, ML, and business strategy from Delhi.
+Student in product design, data science, ML, and business strategy from New Delhi.
 
 ![Your stats](https://github-readme-stats.vercel.app/api?username=23f3003360-gif&show_icons=true&theme=radical)
 
